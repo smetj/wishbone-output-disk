@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -11,7 +13,7 @@
     wishbone.output.disk
     ====================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Writes complete messages to a disk buffer.
     ------------------------------------------
@@ -36,5 +38,3 @@
 
             - inbox
                |  Incoming events.
-
-
